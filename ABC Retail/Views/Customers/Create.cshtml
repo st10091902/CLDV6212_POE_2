@@ -1,0 +1,8 @@
+﻿@model ABC_Retail.Models.CustomerEntity
+<h2>Create Customer</h2>
+<form asp-action="Create" method="post">
+	<div class="mb-3"><label>Name</label><input asp-for="Name" class="form-control" /></div>
+	<div class="mb-3"><label>Email</label><input asp-for="Email" class="form-control" /></div>
+	<div class="mb-3"><label>Address</label><input asp-for="Address" class="form-control" /></div>
+	<button class="btn btn-success">Save</button>
+</form>

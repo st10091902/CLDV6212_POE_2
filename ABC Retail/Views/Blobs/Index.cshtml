@@ -1,0 +1,12 @@
+﻿@model List<string>
+<h2>Product Images</h2>
+<form asp-action="Upload" method="post" enctype="multipart/form-data">
+	<input type="file" name="file" />
+	<button class="btn btn-primary">Upload</button>
+</form>
+<ul>
+	@foreach (var n in Model)
+	{
+		<li>@n — <a asp-action="Download" asp-route-name="@n">Open</a></li>
+	}
+</ul>

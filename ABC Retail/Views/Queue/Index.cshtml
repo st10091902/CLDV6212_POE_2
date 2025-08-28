@@ -1,0 +1,7 @@
+﻿<h2>Order Queue</h2>
+<form asp-action="Enqueue" method="post" class="row g-2">
+	<div class="col"><input name="orderId" placeholder="Order ID" class="form-control" /></div>
+	<div class="col"><input name="customerId" placeholder="Customer ID" class="form-control" /></div>
+	<div class="col"><button class="btn btn-primary">Enqueue</button></div>
+</form>
+<p class="text-success">@ViewBag.Message</p>

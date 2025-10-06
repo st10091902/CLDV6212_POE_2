@@ -1,7 +1,43 @@
-﻿<h2>Order Queue</h2>
-<form asp-action="Enqueue" method="post" class="row g-2">
-	<div class="col"><input name="orderId" placeholder="Order ID" class="form-control" /></div>
-	<div class="col"><input name="customerId" placeholder="Customer ID" class="form-control" /></div>
-	<div class="col"><button class="btn btn-primary">Enqueue</button></div>
-</form>
-<p class="text-success">@ViewBag.Message</p>
+﻿@{
+    ViewData["Title"] = "Queue Demo";
+}
+
+<h2>Order Queue</h2>
+
+@if (ViewBag.Message != null)
+{
+    <div class="alert alert-info">@ViewBag.Message</div>
+}
+
+<div class="row g-3">
+    <!-- Enqueue -->
+    <div class="col-md-6">
+        <div class="card p-3">
+            <h4 class="mb-3">Enqueue Order</h4>
+            <form asp-action="Enqueue" method="post" class="row g-2">
+                <div class="col-12">
+                    <input name="orderId" placeholder="Order ID (e.g., ORD001)" class="form-control" />
+                </div>
+                <div class="col-12">
+                    <input name="customerId" placeholder="Customer ID (e.g., CUST001)" class="form-control" />
+                </div>
+                <div class="col-12">
+                    <button class="btn btn-primary">Enqueue</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- Dequeue -->
+    <div class="col-md-6">
+        <div class="card p-3">
+            <h4 class="mb-3">Dequeue One</h4>
+            <form asp-action="DequeueOne" method="post">
+                <button class="btn btn-outline-secondary">Read one from queue</button>
+            </form>
+            <p class="text-muted mt-2">
+                Tip: You can also peek messages in Azure Portal → Queues → <strong>orders</strong>.
+            </p>
+        </div>
+    </div>
+</div>

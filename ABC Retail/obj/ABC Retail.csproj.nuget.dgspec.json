@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail.csproj": {}
+    "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\ABC Retail.csproj": {}
   },
   "projects": {
-    "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail.csproj": {
+    "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\ABC Retail.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail.csproj",
+        "projectUniqueName": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\ABC Retail.csproj",
         "projectName": "ABC Retail",
-        "projectPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail.csproj",
+        "projectPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\ABC Retail.csproj",
         "packagesPath": "C:\\Users\\marco\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\obj\\",
+        "outputPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

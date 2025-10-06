@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|c:\\users\\marco\\onedrive\\desktop\\school\\degree\\year 2\\cldv6212\\website\\abc retail\\abc retail\\abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|solutionrelative:abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|c:\\users\\marco\\onedrive\\desktop\\school\\degree\\year 2\\cldv6212\\website\\abc retail\\abc retail\\abc retail\\views\\queue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|solutionrelative:abc retail\\views\\queue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Views\\Queue\\Index.cshtml",
+              "RelativeDocumentMoniker": "ABC Retail\\Views\\Queue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Views\\Queue\\Index.cshtml",
+              "RelativeToolTip": "ABC Retail\\Views\\Queue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-06T17:23:44.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueController.cs",
+              "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Controllers\\QueueController.cs",
+              "RelativeDocumentMoniker": "ABC Retail\\Controllers\\QueueController.cs",
+              "ToolTip": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Controllers\\QueueController.cs",
+              "RelativeToolTip": "ABC Retail\\Controllers\\QueueController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T17:24:06.529Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|c:\\users\\marco\\onedrive\\desktop\\school\\degree\\year 2\\cldv6212\\website\\abc retail\\abc retail\\abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|solutionrelative:abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|c:\\users\\marco\\onedrive\\desktop\\school\\degree\\year 2\\cldv6212\\website\\abc retail\\abc retail\\abc retail\\views\\queue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|solutionrelative:abc retail\\views\\queue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|c:\\users\\marco\\onedrive\\desktop\\school\\degree\\year 2\\cldv6212\\website\\abc retail\\abc retail\\abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{910FE2F8-3C13-4A55-BF28-03868E9DADD7}|ABC Retail\\ABC Retail.csproj|solutionrelative:abc retail\\controllers\\queuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Views\\Queue\\Index.cshtml",
               "RelativeDocumentMoniker": "ABC Retail\\Views\\Queue\\Index.cshtml",
@@ -35,7 +35,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "QueueController.cs",
               "DocumentMoniker": "C:\\Users\\marco\\OneDrive\\Desktop\\School\\Degree\\Year 2\\CLDV6212\\Website\\ABC Retail\\ABC Retail\\ABC Retail\\Controllers\\QueueController.cs",
               "RelativeDocumentMoniker": "ABC Retail\\Controllers\\QueueController.cs",
